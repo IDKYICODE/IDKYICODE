@@ -37,9 +37,9 @@
 
 ### 🚀 Featured Projects
 
-* **Virtual Reality Education Platform:** Designed Virtual Reality Environments using Webxr along with AI assisted chatbot integrated classroom environments with a blockchain backend.
-* **AI Interview System:** Developed an AI based Interview System with real time Microsoft teams integration and eleven labs text to speech.
-* **Gaze-Based Virtual Keyboard:** Built a Virtual Keyboard which tracks the users gaze movement to navigate keys and select upon blinking.
+* **Virtual Reality Education Platform:** Designed Virtual Reality Environments using WebXR along with AI-assisted chatbot integrated classroom environments with a blockchain backend.
+* **AI Interview System:** Developed an AI-based Interview System with real-time Microsoft Teams integration and ElevenLabs text-to-speech.
+* **Gaze-Based Virtual Keyboard:** Built a Virtual Keyboard which tracks the user's gaze movement to navigate keys and select upon blinking.
 * **Automatic Essay Grading System:** Created an Automatic Essay Grading System utilizing neural networks to grade essays based on vocabulary and grammar used.
 
 ---
@@ -51,14 +51,14 @@
 
 ---
 
----
-
 <div align="center">
   <p>Let's connect and build something extraordinary.</p>
-  <a href="mailto:ayushsinghp12@gmail.com">
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushsinghp12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/ayushsingh9959">
+
+  <a href="https://linkedin.com/in/AyushSingh9959" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
